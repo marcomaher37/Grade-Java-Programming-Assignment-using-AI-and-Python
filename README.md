@@ -12,7 +12,8 @@ Grade Java Programming Assignment using Python
 ##
       import subprocess
       import os
-      '''  
+      '''
+      If you want to run C Program instead of Java , you can use this code
       def excuteC():
 
 
@@ -28,7 +29,8 @@ Grade Java Programming Assignment using Python
           #C_Output=s
           print(C_Output)
       '''
-      ''' 
+      '''
+      If you want to run C++ Program instead of Java , you can use this code
       def executeCpp():
 
           # create a pipe to a child process
